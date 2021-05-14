@@ -6,6 +6,8 @@ A C++ program which implements all the Operating System Process Scheduling Algor
   - Preemptive Priority
   - Preemptive Round Robin (PRR)
 
+
+
 Scheduling_Processes_terminal can be used to run the program on the system terminal by following the mentioned commands:
 
 1) Open the Windows command prompt and come to the appropriate directory.
